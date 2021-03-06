@@ -4,7 +4,7 @@
 
 ## 其它主页
 - ![](https://www.bilibili.com/favicon.ico) [哔哩哔哩](https://space.bilibili.com/414391716/) 
-
+- <img src="https://gitee.com/static/images/logo_themecolor.png" height="32px" width="32px"> [gitee](https://gitee.com/rightair)
 <!--
 **RightAirBlack/RightAirBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
