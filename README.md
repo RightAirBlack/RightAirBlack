@@ -1,4 +1,9 @@
-### Hi there 👋
+# RightAirBlack
+## 一些没啥用的项目（）
+- <strong> [膜语言/NTLANG](https://github.com/RightAirBlack/NTLang/) </strong>
+
+## 其它主页
+- ![altName bilibili](www.bilibili.com/favicon.ico) [哔哩哔哩](https://space.bilibili.com/414391716/) 
 
 <!--
 **RightAirBlack/RightAirBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
