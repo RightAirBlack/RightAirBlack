@@ -1,4 +1,8 @@
-# RightAirBlack
+# <strong>RightAirBlack</strong>
+![My github stats](https://github-readme-stats.vercel.app/api?username=RightAirBlack&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RightAirBlack&layout=compact&hide_border=true&hide=html,css)
+
 ## 一些没啥用的项目（）
 - <strong> [膜语言/NTLANG](https://github.com/RightAirBlack/NTLang/) </strong>
 
